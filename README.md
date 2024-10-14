@@ -1,15 +1,14 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Deekshitha</h1>
-<h3 align="center">Aspiring AI Engineer from India</h3>
+<h3 align="center">Aspiring AI Engineer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deekshikp&label=Profile%20views&color=0e75b6&style=flat" alt="deekshikp" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deekshikp" alt="deekshikp" /></a> </p>
 
 - 🔭 I’m currently working on [mRNA degradation using deep learning](https://github.com/deekshikp/mRNA_Degradation)
 
 - 🌱 I’m currently learning **Tensorflow**
+
+-👯 I’m looking to collaborate on **Building applications using AI**
 
 - 💬 Ask me about **Python, R,**
 
