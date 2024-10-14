@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Deekshitha</h1>
 <h3 align="center">Aspiring AI Engineer </h3>
+<br></br>
 
 
 - 🔭 I’m currently working on [mRNA degradation using deep learning](https://github.com/deekshikp/mRNA_Degradation)
@@ -10,7 +11,7 @@
 
 -👯 I’m looking to collaborate on **Building applications using AI**
 
-- 💬 Ask me about **Python, R,**
+- 💬 Ask me about **Python, R, Machine learning**
 
 - 📫 How to reach me **deekshitha.keni.prakash@gmail.com**
 
