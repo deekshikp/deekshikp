@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Tensorflow**
 
--👯 I’m looking to collaborate on **Building applications using AI**
+- 👯 I’m looking to collaborate on **Building applications using AI**
 
 - 💬 Ask me about **Python, R, Machine learning**
 
