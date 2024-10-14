@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Deekshitha</h1>
 <h3 align="center">Aspiring AI Engineer </h3>
