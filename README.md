@@ -5,13 +5,11 @@
 <br></br>
 
 
-- 🔭 I’m currently working on [mRNA degradation using deep learning](https://github.com/deekshikp/mRNA_Degradation)
+- 🔭 I’m currently working on **Machine Learning to Predict Solar Flux and Geomagnetic Indices to model drag in Satellites**
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **ML Frameworks**
 
-- 👯 I’m looking to collaborate on **Building applications using AI**
-
-- 💬 Ask me about **Python, R, Machine learning**
+- 💬 Ask me about **Python, R, Machine learning, Java**
 
 - 📫 How to reach me **deekshitha.keni.prakash@gmail.com**
 
